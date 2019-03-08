@@ -1,2 +1,1 @@
-console.log ("diego chipana");
-console.log ("Hola github");
+console.log ("Hola Bienvenidos al taller de Git y GitHub")
