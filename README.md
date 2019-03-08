@@ -1,2 +1,2 @@
 ﻿# tallergithub
-Proyecto de ejemplo práctico para apren a usar github
+Proyecto de ejemplo practico para apren a usar github
