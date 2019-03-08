@@ -1,0 +1,11 @@
+1. git init
+2. git clone
+3. git log
+4. git add
+5. git branch -r
+6. git commit -a
+7. git chechout -b develop
+8. git.ignore
+9. username and email address
+10. git commit -m "git quiz web file added"
+11. Linus Torvalds
