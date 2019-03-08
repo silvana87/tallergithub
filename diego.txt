@@ -1,0 +1,24 @@
+Diego chipana
+
+1. ¿Qué comando es necesario para crear un repositorio?
+?	git init
+2. Si deseas obtener una copia de un repositorio Git existente en GitHub, el comando que necesitas es :
+?	git clone
+3. ¿Cuál es el comando utilizado para listar los cambios (commits) que han producido en el repositorio?
+?	git log
+4. Para añadir contenido al área de preparación (staging area), se debe utilizar el siguiente comando:
+?	git add
+5. Lista todas las ramas (branches) disponibles localmente.
+?	git branch
+6. Atajo que proporciona git, si quieres saltarte el área de preparación.
+?	git commit -a
+7. ¿Cuál de los siguientes comandos crea una nueva rama local llamada develop?
+?	git checkout -b develop
+8. ¿Qué archivo puede configurar para garantizar que ciertos tipos de archivos nunca se confirmen en el repositorio Git local?
+?	.gitignore
+9. Después de instalar Git y antes de emitir la primera confirmación, ¿Qué propiedades de configuración espera que se configure la herramienta?
+?	username and email address
+10. Después de inicializar un nuevo repositorio Git y crear un archivo llamado git-quiz.html, ¿cuál de los siguientes comandos no funcionará si se emite?
+?	git commit -m "git quiz web file added"
+11. ¿A quién se le atribuye la invención de Git?
+?	Linus Torvalds
