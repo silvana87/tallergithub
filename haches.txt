@@ -1,5 +1,3 @@
-Diego chipana
-
 1. ¿Qué comando es necesario para crear un repositorio?
 ?	git init
 2. Si deseas obtener una copia de un repositorio Git existente en GitHub, el comando que necesitas es :
